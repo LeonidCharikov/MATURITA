@@ -1,0 +1,1 @@
+Bezpečnost a uživatelská oprávnění a role

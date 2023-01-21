@@ -1,0 +1,1 @@
+Etapy vývoje a Dokumentace databázových systémů obsah a forma

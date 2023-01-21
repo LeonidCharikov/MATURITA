@@ -1,0 +1,1 @@
+Správa serveru Oracle, použití programu Oracle SQL developer
