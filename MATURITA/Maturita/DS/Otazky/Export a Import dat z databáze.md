@@ -1,1 +1,0 @@
-Export/Import dat z databáze

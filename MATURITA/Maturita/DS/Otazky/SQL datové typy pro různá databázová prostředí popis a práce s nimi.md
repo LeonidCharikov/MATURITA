@@ -1,1 +1,0 @@
-SQL datové typy pro různá databázová prostředí popis a práce s nimi

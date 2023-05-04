@@ -1,1 +1,0 @@
-Business Inteligence. Relační modely evidence verzí, změn a historických záznamů

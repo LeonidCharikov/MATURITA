@@ -1,1 +1,0 @@
-Správa serveru MySQL, použití programu WorkBench

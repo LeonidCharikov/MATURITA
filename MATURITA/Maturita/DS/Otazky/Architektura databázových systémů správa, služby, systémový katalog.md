@@ -1,1 +1,0 @@
-Architektura databázových systémů správa, služby, systémový katalog

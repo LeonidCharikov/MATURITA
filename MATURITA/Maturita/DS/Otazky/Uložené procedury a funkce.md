@@ -1,1 +1,0 @@
-Uložené procedury a funkce

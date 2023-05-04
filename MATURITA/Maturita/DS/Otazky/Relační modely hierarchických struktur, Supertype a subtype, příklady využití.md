@@ -1,1 +1,0 @@
-Relační modely hierarchických struktur, Supertype a subtype, příklady využití

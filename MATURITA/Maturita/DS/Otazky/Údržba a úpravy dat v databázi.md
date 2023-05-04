@@ -1,1 +1,0 @@
-Údržba a úpravy dat v databázi

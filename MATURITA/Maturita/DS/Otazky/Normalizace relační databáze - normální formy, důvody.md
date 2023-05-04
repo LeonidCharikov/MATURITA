@@ -1,1 +1,0 @@
-Normalizace relační databáze - normální formy, důvody

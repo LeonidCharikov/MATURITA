@@ -1,1 +1,0 @@
-Integrita dat relační databáze - integritní omezení, způsoby nastavení

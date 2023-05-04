@@ -1,1 +1,0 @@
-[[Petr Sabach - Obcansky prukaz]]
