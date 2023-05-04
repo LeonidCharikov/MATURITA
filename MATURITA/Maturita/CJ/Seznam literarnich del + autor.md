@@ -1,0 +1,13 @@
+[[Antoin de Saint-Exupéry -  MALÝ PRINC]]
+
+[[GEORGE ORWELL - FARMA ZVÍŘAT]]
+
+[[WILLIAM  SHAKESPEARE – HAMLET, KRALEVIC DÁNSKÝ]]
+
+[[EDGAR ALLAN POE – HAVRAN]]
+
+[[Franz Kafka - Proměna]]
+
+[[VIKTOR DYK  - KRYSAŘ]]
+
+[[KAREL JAROMÍR ERBEN - KYTICE Z POVĚSTÍ NÁRODNÍCH]]

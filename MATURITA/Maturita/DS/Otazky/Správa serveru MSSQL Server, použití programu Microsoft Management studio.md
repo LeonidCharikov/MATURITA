@@ -1,0 +1,1 @@
+ Správa serveru MSSQL Server, použití programu Microsoft Management studio

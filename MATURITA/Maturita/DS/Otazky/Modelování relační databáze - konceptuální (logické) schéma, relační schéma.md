@@ -1,0 +1,1 @@
+Modelování relační databáze - konceptuální (logické) schéma, relační schéma

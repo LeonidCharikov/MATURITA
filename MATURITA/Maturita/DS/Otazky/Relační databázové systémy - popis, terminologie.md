@@ -1,0 +1,1 @@
+Relační databázové systémy - popis, terminologie
